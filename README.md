@@ -1,4 +1,4 @@
-# Simple eCommerce Site w/GraphQL
+# Simple Ecommerce Site w/GraphQL
 
 Simple React application with an admin panel which gives the ability to create, edit, and view customer details.
 
