@@ -1,0 +1,25 @@
+.collection-item {
+  display: flex;
+  justify-content: space-between;
+}
+
+.material-icons {
+  cursor: pointer;
+  margin-right: 5px;
+}
+
+.nav-wrapper {
+  padding-left: 10px;
+}
+
+.wrapper {
+  margin: 40px 30px 20px 30px;
+}
+
+.switch {
+  margin-top: 20px;
+}
+
+form {
+  margin-bottom: 30px;
+}
